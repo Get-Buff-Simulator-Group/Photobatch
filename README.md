@@ -24,4 +24,4 @@ It's easy! just open File Explorer and go to: This PC > Windows(C:) > Users > Ad
 
 
 
-**2020, Photobatch Co., A subsidary of GBS Group**
+**2020, Photobatch. A subsidary of GBS Group**
