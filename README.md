@@ -1,4 +1,4 @@
-# Photobatch
+# 📸 Photobatch 
 **A easy way to view files from the Command Prompt.**
 
 ## Installation
