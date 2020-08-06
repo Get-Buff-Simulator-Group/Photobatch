@@ -1,5 +1,5 @@
 # 📸 Photobatch 
-**A easy way to view files from the Command Prompt.**
+**A easy way to view photos from the Command Prompt.**
 
 ## Installation
 Go to the [install link](https://github.com/Get-Buff-Simulator-Group/Photobatch/raw/master/Photobatch.zip) and install it. 
