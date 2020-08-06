@@ -1,4 +1,4 @@
-# 📸 Photobatch 
+# ![🖼️ Photobatch](https://github.com/Get-Buff-Simulator-Group/Photobatch/blob/master/photobatch.png?raw=true)
 **A easy way to view photos from the Command Prompt.**
 
 ## Installation
