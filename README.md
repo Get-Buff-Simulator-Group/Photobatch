@@ -15,4 +15,13 @@ First, type in the command prompt:
 ***```cd C:\Users\Admin\Desktop\Photobatch```***
 
 
-Then, type 
+Then, type ```install```.
+and voilà! 
+
+# Adding photos
+
+It's easy! just open File Explorer and go to: This PC > Windows(C:) > Users > Admin > Desktop > Photobatch > Photos, then add/paste those photos in!
+
+
+
+**2020, Photobatch Co., A subsidary of GBS Group**
