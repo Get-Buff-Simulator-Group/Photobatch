@@ -2,7 +2,7 @@
 **A easy way to view photos from the Command Prompt.**
 
 ## Installation
-Go to the [install link](https://github.com/Get-Buff-Simulator-Group/Photobatch/Photobatch.exe) and install it. 
+Go to the [install link](https://sourceforge.net/p/photobatch/) and install it. 
 
 Then open it, and extract the file
 
