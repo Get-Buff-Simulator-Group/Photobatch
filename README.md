@@ -8,8 +8,6 @@ Then open it, and extract the file
 
 Then delete the original **EXE FILE**. **NOT THE FOLDER**.
 
-***Note!*** **Make sure you extract to this file location: C:\Users\Admin\Desktop or Photobatch will not be able to run.**
-
 # Setup
 First, type in the command prompt: 
 ***```cd C:\Users\Admin\Desktop\Photobatch```***
